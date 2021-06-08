@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ohallstrom
 - 👀 I’m interested in Data, ML, AI and a bunch of other stuff
 - 🌱 I’m currently on echange at EPFL
-- 📫 
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/oskar-hallström-b747a7114/)
 
 <!---
 ohallstrom/ohallstrom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
