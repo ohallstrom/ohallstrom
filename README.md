@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ohallstrom
 - 👀 I’m interested in Data, ML, AI and a bunch of other stuff
-- 🌱 I’m currently learning at EPFL
+- 🌱 I’m currently on echange at EPFL
 - 📫 
 
 <!---
