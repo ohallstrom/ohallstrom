@@ -1,5 +1,5 @@
 # 👋 Hello! 
-### I'm Oskar, a Swedish engineering student on exchange at [EPFL](https://www.epfl.ch/fr/)
+### I'm Oskar, a Swedish engineering student on exchange at EPFL, Switzerland
 - 🗒 Studying for a MSc in Industrial Engineering and Management at LiTH, with a MSc in Computer Science
 - 👀 I’m interested in Data, ML, AI and a bunch of other stuff
 - 🌱 I’m currently doing an AR project at EPFL 
