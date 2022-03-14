@@ -1,5 +1,5 @@
 # 👋 Hello! 
-### I'm Oskar, a Swedish engineering student on exchange at EPFL, Switzerland
+### I'm Oskar, a Swedish engineering student working part time with AI/ML in both academia and industry
 - 🗒 Studying for a MSc in Industrial Engineering and Management at LiTH, with a MSc in Computer Science specialized in Machine Learning
 - 👀 I’m interested in Data Science, ML, AI and a bunch of other stuff
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/oskar-hallström-b747a7114/)
