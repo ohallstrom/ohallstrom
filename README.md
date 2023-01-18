@@ -1,5 +1,6 @@
 # 👋 Hello! 
-### I'm Oskar, a Swedish engineering student working part time with AI/ML
+### I'm Oskar, a Swedish engineering student with a passion for AI/ML
+- 👨🏼‍💻 Currently writing my Master's thesis @ [LightOn](https://github.com/lightonai), where I do research on LLMs
 - 🗒 Graduating in 2023 with a MSc in Computer Science specialized in Machine Learning
 - 👀 I’m interested in Data Science, ML, AI and a bunch of other stuff
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/oskar-hallström-b747a7114/)
