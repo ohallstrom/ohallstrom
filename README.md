@@ -1,5 +1,5 @@
 # 👋 Hello! 
-### I'm Oskar, a Machine Learning Engineer 
+### I'm Oskar, Machine Learning Engineer within R&D of Large Language Models
 - 👨🏼‍💻 Currently aligning Large Language Models @ [LightOn](https://github.com/lightonai)
 - 🗒 MSc in Computer Science specialized in Machine Learning
 - 👀 Interested in generative AI
