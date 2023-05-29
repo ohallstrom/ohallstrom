@@ -6,7 +6,7 @@
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/oskar-hallström-b747a7114/)
 - 🎸 Check out my Indie Band [Billie Garlic](https://open.spotify.com/artist/2KZoVTprHSLoYX7G38MBh9?si=2-ojbn-iS7-_sTpeDI-dTw)
 
-If you want some fun reading, check out my data story [here](https://ohallstrom.github.io/data-story/), where I and some peers at EPFL analyse Quotebank, a dataset with millions of quotes.
+If you want some fun reading from my academical past in Switzerland, check out my data story [here](https://ohallstrom.github.io/data-story/), where I and some peers at EPFL analyse Quotebank, a dataset with millions of quotes.
 
 <!---
 ohallstrom/ohallstrom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
