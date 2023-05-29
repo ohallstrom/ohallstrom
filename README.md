@@ -1,8 +1,8 @@
 # 👋 Hello! 
-### I'm Oskar, a Swedish engineering student with a passion for AI/ML
-- 👨🏼‍💻 Currently writing my Master's thesis @ [LightOn](https://github.com/lightonai), where I do research on LLMs
-- 🗒 Graduating in 2023 with a MSc in Computer Science specialized in Machine Learning
-- 👀 I’m interested in Data Science, ML, AI and a bunch of other stuff
+### I'm Oskar, a Machine Learning Engineer 
+- 👨🏼‍💻 Currently aligning Large Language Models @ [LightOn](https://github.com/lightonai)
+- 🗒 MSc in Computer Science specialized in Machine Learning
+- 👀 Interested in generative AI
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/oskar-hallström-b747a7114/)
 - 🎸 Check out my Indie Band [Billie Garlic](https://open.spotify.com/artist/2KZoVTprHSLoYX7G38MBh9?si=2-ojbn-iS7-_sTpeDI-dTw)
 
