@@ -1,7 +1,7 @@
 # 👋 Hello! 
 ### I'm Oskar, Machine Learning Engineer within R&D of Large Language Models
 - 👨🏼‍💻 Currently aligning Large Language Models @ [LightOn](https://github.com/lightonai)
-  - Responsible for reward modeling in the creation of [Alfred](https://huggingface.co/lightonai/alfred-40b-0723). the first RLHF:ed version of Falcon-40B   
+  - Responsible for reward modeling in the creation of [Alfred](https://huggingface.co/lightonai/alfred-40b-0723), the first RLHF:ed version of Falcon-40B   
 - 🗒 MSc in Computer Science specialized in Machine Learning
 - 👀 Interested in generative AI
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/oskar-hallström-b747a7114/)
