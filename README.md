@@ -5,7 +5,7 @@
   - Project lead in the creation of [Alfred-40B-1023](https://huggingface.co/lightonai/alfred-40b-1023), using a custom extension method to obtain an 8K context length
   - Responsible for reward modeling in the creation of [Alfred-40B-0723](https://huggingface.co/lightonai/alfred-40b-0723) - a RLHF:ed version of Falcon-40B. Alfred was the second ever open source LLM aligned with PPO (Llama 2 being the first one).   
 - 🗒 MSc in Computer Science specialized in Machine Learning  
-  - [Master's Thesis in Synthetic Data Generation for Large Language Model Reward Modeling](https://github.com/ohallstrom/ohallstrom/edit/main/modeling_of_human_preferences_without_humans.pdf)
+  - [Master's Thesis in Synthetic Data Generation for Large Language Model Reward Modeling](https://github.com/ohallstrom/ohallstrom/blob/main/modeling_of_human_preferences_without_humans.pdf)
   - Included 65 credits at École Polytechnique Fédérale de Lausanne
 - 👀 Interested in everything generative AI
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/oskar-hallström-b747a7114/)
